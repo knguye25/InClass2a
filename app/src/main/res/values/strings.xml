@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InClass2a</string>
+
+    <!-- Programmer's string values-->
+    <string name="metersLbl">Meters: </string>
+    <string name="resultLbl">Result: </string>
+    <string name="promptLbl">Enter Distance</string>
+    <string name="inBtn">To Inches</string>
+    <string name="ftBtn">To Feet</string>
+    <string name="mlBtn">To Miles</string>
+    <string name="clrAllBtn">Clear All</string>
+</resources>
